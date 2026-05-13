@@ -34,10 +34,10 @@ The project focused on **Precision** and **Recall** to balance the cost of false
 
 ### **Visual Insights**
 *   **The Churn Drivers:** The analysis reveals that **tenure** and **TotalCharges** are the top mathematical predictors of customer loyalty.
-*   <img width="1043" height="530" alt="Screenshot 2026-05-13 at 10 05 12 PM" src="https://github.com/user-attachments/assets/f18e3e9d-9e04-4e1d-b5aa-2b157197b94d" />
+   <img width="1043" height="530" alt="Screenshot 2026-05-13 at 10 05 12 PM" src="https://github.com/user-attachments/assets/f18e3e9d-9e04-4e1d-b5aa-2b157197b94d" />
 
 *   **Confusion Matrix:** Successfully identified **927** stable customers and **184** potential churners in the test set.
-*   <img width="651" height="549" alt="Screenshot 2026-05-13 at 10 05 33 PM" src="https://github.com/user-attachments/assets/35a9d414-f799-4e15-b0b4-9b8c5fd33f4f" />
+   <img width="651" height="549" alt="Screenshot 2026-05-13 at 10 05 33 PM" src="https://github.com/user-attachments/assets/35a9d414-f799-4e15-b0b4-9b8c5fd33f4f" />
 
 
 ---
